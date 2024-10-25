@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/alwnraj/newblog/pt/</loc>
+    <loc>https://github.com/alwnraj/newblog/pt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/alwnraj/newblog/"
+                href="https://github.com/alwnraj/newblog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/alwnraj/newblog/pt/"
+                href="https://github.com/alwnraj/newblog/pt/"
                 />
   </url><url>
-    <loc>http://localhost:1313/alwnraj/newblog/pt/categories/</loc>
+    <loc>https://github.com/alwnraj/newblog/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/alwnraj/newblog/categories/"
+                href="https://github.com/alwnraj/newblog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/alwnraj/newblog/pt/categories/"
+                href="https://github.com/alwnraj/newblog/pt/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/alwnraj/newblog/pt/tags/</loc>
+    <loc>https://github.com/alwnraj/newblog/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/alwnraj/newblog/tags/"
+                href="https://github.com/alwnraj/newblog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/alwnraj/newblog/pt/tags/"
+                href="https://github.com/alwnraj/newblog/pt/tags/"
                 />
   </url>
 </urlset>
