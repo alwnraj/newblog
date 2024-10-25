@@ -1,8 +1,13 @@
 # Basic config
-baseURL = "https://github.com/alwnraj/newblog"  # Update this to your actual site URL after deployment
+baseURL = "http://localhost:1313"  # Update this to your actual site URL after deployment
 theme = "hugo-bearcub"
 copyright = "John Doe (CC BY 4.0)"
 defaultContentLanguage = "en"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -17,23 +22,18 @@ enableRobotsTXT = true
 # Multilingual mode config
 [languages]
   [languages.en]
-    title = "Bear Cub"
+    title = "Alwin Cub"
     languageName = "en-US 🇺🇸"
     languageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
-  [languages.pt]
-    title = "Bear Cub"
-    languageName = "pt-BR 🇧🇷"
-    languageCode = "pt-BR"
-    contentDir = "content.pt"
-    [languages.pt.params]
-      madeWith = "Feito com [Bear Cub](https://github.com/clente/hugo-bearcub)"
+
+
 
 [params]
   # The description of your website
-  description = "Bear Cub Demo"
+  description = "Alwin Cub Demo"
 
   # The path to your favicon
   favicon = "images/favicon.png"
@@ -59,7 +59,6 @@ enableRobotsTXT = true
   # Social media metadata
   [params.social]
     twitter = "example"  # Twitter handle (without '@')
-    facebook_admin = "0000000000"  # Facebook Page Admin ID
 
   # Author metadata
   [params.author]
