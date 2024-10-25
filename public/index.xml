@@ -8,41 +8,9 @@
     <language>en-US</language>
     <managingEditor>me@example.com (John Doe)</managingEditor>
     <webMaster>me@example.com (John Doe)</webMaster>
-    <copyright>John Doe (CC BY 4.0)</copyright>
+    <copyright>Alwin Rajkumar (CC BY 4.0)</copyright>
     <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Home</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;ᕦʕ-ᴥʔᕤ-bear-cub&#34;&gt;ᕦʕ •ᴥ•ʔᕤ Bear Cub&lt;/h1&gt;&#xA;&lt;p&gt;Today&amp;rsquo;s websites are bloated, slow, and full of scripts, ads, and trackers. This&#xA;became so commonplace that we lost all sense of perspective, to the point that&#xA;we now think multi-megabyte webpages are normal.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The internet has become a bloated mess. Huge JavaScript libraries, countless&#xA;client-side queries and overly complex frontend frameworks are par for the&#xA;course these days.&lt;/p&gt;&#xA;&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://512kb.club/&#34;&gt;Kev Quirk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s change this, one website at a time! &lt;strong&gt;Bear Cub&lt;/strong&gt; is a&#xA;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; theme based on &lt;a href=&#34;https://github.com/janraasch/hugo-bearblog/&#34;&gt;Hugo&#xA;Bear&lt;/a&gt; that takes care of speed and&#xA;optimization, so you can focus on writing good content.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h1 id="ᕦʕ-ᴥʔᕤ-bear-cub">ᕦʕ •ᴥ•ʔᕤ Bear Cub</h1>
-<p>Today&rsquo;s websites are bloated, slow, and full of scripts, ads, and trackers. This
-became so commonplace that we lost all sense of perspective, to the point that
-we now think multi-megabyte webpages are normal.</p>
-<blockquote>
-<p>The internet has become a bloated mess. Huge JavaScript libraries, countless
-client-side queries and overly complex frontend frameworks are par for the
-course these days.</p>
-<p>&mdash; <a href="https://512kb.club/">Kev Quirk</a></p>
-</blockquote>
-<p>Let&rsquo;s change this, one website at a time! <strong>Bear Cub</strong> is a
-<a href="https://gohugo.io/">Hugo</a> theme based on <a href="https://github.com/janraasch/hugo-bearblog/">Hugo
-Bear</a> that takes care of speed and
-optimization, so you can focus on writing good content.</p>
-<p>It is free, multilingual, optimized for search engines, no-nonsense, responsive,
-light, and fast. Really fast.</p>
-<p>When compared to its predecessor, <strong>Bear Cub</strong> has a few
-<a href="https://themarkup.org/blacklight?url=clente.github.io/hugo-bearcub/">privacy</a>
-and
-<a href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fclente.github.io%2Fhugo-bearcub%2F">accessibility</a>
-upgrades. It&rsquo;s also compatible with modern
-<a href="https://github.com/clente/hugo-bearcub#secure">security</a> standards, so your
-users don&rsquo;t have to worry about browsing your website.</p>
-<p>Made with 💟 by <a href="https://lente.dev/en">Caio lente</a>.</p>
-]]></content:encoded>
-    </item>
     <item>
       <title>My First Blog Post</title>
       <link>http://localhost:1313/blog/mypost1/</link>

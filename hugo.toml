@@ -1,8 +1,9 @@
 # Basic config
 baseURL = "http://localhost:1313"  # Update this to your actual site URL after deployment
 theme = "hugo-bearcub"
-copyright = "John Doe (CC BY 4.0)"
+copyright = "Alwin Rajkumar (CC BY 4.0)"
 defaultContentLanguage = "en"
+
 
 [[menu.main]]
     name = "Blog"
